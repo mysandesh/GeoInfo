@@ -28,6 +28,9 @@ yarn-error.*
 .DS_Store
 *.pem
 
+#misc
+temp/
+
 # local env files
 .env*.local
 
